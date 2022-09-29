@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>what information do you need to update?</key>
+        <language>en</language>
+        <message>What information do you need to update?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 21:59:40</sys_created_on>
+        <sys_id>34e8507897da1110ddd6f8b3f153afa9</sys_id>
+        <sys_name>what information do you need to update?</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_message_34e8507897da1110ddd6f8b3f153afa9</sys_update_name>
+    </sys_ui_message>
+</record_update>
